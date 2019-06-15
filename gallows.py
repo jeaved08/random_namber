@@ -23,7 +23,7 @@ choice = random_word()
 print("Слово загаданно")
 
 #Длина слова
-lenght = len(choice("-"))
+lenght = len(choice)
 print("Длина слова : ", lenght)
 
 #Функция определяющая жизни при отгадывании
